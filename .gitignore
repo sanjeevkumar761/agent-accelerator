@@ -1,0 +1,13 @@
+node_modules
+.vscode
+.cache
+__pycache__
+.env
+OAI_CONFIG_LIST
+backend/src/simple_chat_with_tools_copy.py
+backend/src/azure_arg_copy.py
+chroma
+hiro_oas_test.json
+autogen_chat.py
+autogen_group_chat.py
+groupchatweb.py

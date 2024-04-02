@@ -1,0 +1,9 @@
+[
+    {
+        "model": "<model name>",
+        "api_key": "<Azure OpenAI api key>",
+        "base_url": "<Azure OpenAI base URL>",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    }
+]
